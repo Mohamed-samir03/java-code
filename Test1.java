@@ -2,6 +2,9 @@
 Write a program that reads the first 5 values from 
 this file and prints them along with their sum.
 */
+
+
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
